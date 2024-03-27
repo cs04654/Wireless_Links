@@ -1,0 +1,10 @@
+WINDOWS USERS:
+-----------------------------
+Unzip anywere and run the "start.bat" file found inside the "MYE048_REPORT" folder.
+
+LINUX/MAC USERS:
+-----------------------------
+Unzip anywhere, and host the "MYE048_REPORT\www" folder in a PHP-enabled web browser (SQL is not needed) listening to port YOUR_PORT.
+Then, browse to: 
+
+http://localhost:YOUR_PORT/?Welcome_-_MYE048_Lab_Report^&login^&passwd=test!
